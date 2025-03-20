@@ -16,7 +16,7 @@
 
 ## 📫 Contact me
 
-[![Gmail Badge](https://img.shields.io/badge/-{SeuEmail}-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:{gilberttojr.dev@gmail.com})](mailto:{gilberttojr.dev@gmail.com})
+[![Gmail Badge](https://img.shields.io/badge/-{gilberttojr.dev@gmail.com}-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:{gilberttojr.dev@gmail.com})](mailto:{gilberttojr.dev@gmail.com})
 <!--[![Linkedin: Ellen](https://img.shields.io/badge/-ellendias-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/devellenias/)](https://www.linkedin.com/in/devellendias/) -->
 [![WhatsApp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white&link=https://wa.me/5511994404444)](https://wa.me/5511994404444)
 
